@@ -1,4 +1,4 @@
-package com.skcc.minjesim.springboot.web.dto;
+package com.skcc.minjesim.springboot.web;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

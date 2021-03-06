@@ -1,6 +1,6 @@
-package com.skcc.minjesim.springboot.dto;
+package com.skcc.minjesim.springboot.web.dto;
 
-import com.skcc.minjesim.springboot.web.dto.HelloResponseDto;
+import com.skcc.minjesim.springboot.web.HelloResponseDto;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
